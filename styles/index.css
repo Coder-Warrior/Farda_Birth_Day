@@ -82,7 +82,7 @@ video {
     z-index: 3;
     position: absolute;
     top: -100%;
-    animation: move-down 3s 70s linear forwards alternate;
+    animation: move-down 3s 76s linear forwards alternate;
 }
 
 /* Animations section */
@@ -120,5 +120,6 @@ video {
     100% {
            top: 0;
     }
+
 
 }
